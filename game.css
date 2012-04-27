@@ -1,0 +1,17 @@
+body
+{
+    background:#303030;
+}
+
+#canvasBg 
+{
+    display:block;
+    background:#ffffff;
+    margin:100px auto 0px;
+}
+
+#canvasPhoenix
+{
+    display:block;
+    margin:-1080px auto 0px;
+}
